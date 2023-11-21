@@ -716,27 +716,27 @@ The card is available in multiple languages. The card will automatically detect 
 
 Currently the following languages are supported:
 
-| Language    | Code(s)    | Status / Remarks  |
-| ----------- | ---------- | ----------------- |
-| Čeština     | cs         |                   |
-| Deutsch     | de         |                   |
-| **English** | en         | Default language. |
-| Eesti       | et         |                   |
-| Español     | es, es_419 |                   |
-| Français    | fr         |                   |
-| עִברִית       | he         |                   |
-| Italiano    | it         |                   |
-| Magyar      | hu         |                   |
-| Polski      | pl         |                   |
-| Português   | pt, pt-br  |                   |
-| Русский     | ru         |                   |
-| Română      | ro         |                   |
-| Slovenščina  | sl         |                   |
-| Slovenský  | sk         |                   |
-| Suomalainen  | fi        |                   |
-| Nederlands  | nl         |                   |
-| Norsk       | no, nb, nn |                   |
-| 简体中文    | zh-Hans    |                   |
+| Language                                                | Code(s)    | Status / Remarks  |
+| ------------------------------------------------------- | ---------- | ----------------- |
+| &#268;e&#353;tina                                       | cs         |                   |
+| Deutsch                                                 | de         |                   |
+| **English**                                             | en         | Default language. |
+| Eesti                                                   | et         |                   |
+| Español                                                 | es, es_419 |                   |
+| Français                                                | fr         |                   |
+| &#1506;&#1460;&#1489;&#1512;&#1460;&#1497;&#1514;       | he         |                   |
+| Italiano                                                | it         |                   |
+| Magyar                                                  | hu         |                   |
+| Polski                                                  | pl         |                   |
+| Português                                               | pt, pt-br  |                   |
+| &#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;       | ru         |                   |
+| Român&#259;                                             | ro         |                   |
+| Sloven&#353;&#269;ina                                   | sl         |                   |
+| Slovenský                                               | sk         |                   |
+| Suomalainen                                             | fi         |                   |
+| Nederlands                                              | nl         |                   |
+| Norsk                                                   | no, nb, nn |                   |
+| &#31616;&#20307;&#20013;&#25991;                        | zh-Hans    |                   |
 
 The translations are maintained by users.
 If you are missing a translation, or a translation needs to be improved, please contribute. Take the [english](https://github.com/nielsfaber/scheduler-card/blob/main/src/localize/languages/en.json) file as a starting point.
